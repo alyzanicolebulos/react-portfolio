@@ -1,0 +1,27 @@
+#contact {
+    padding: 80px 0;
+  }
+  
+  .contact-title-block h1 {
+    color: #ff2e9f;
+  }
+  
+  .contact-container .btn {
+    background-color: #cc2a7e; /* Darkened background color */
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .contact-container .btn:hover {
+    background-color: #b3276d;
+  }
+  
+  .contact-container .btn:active {
+    background-color: #992c5e;
+  }
+  
